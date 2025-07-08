@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#1E88E5"
+backgroundColor = "#E3F2FD"
+secondaryBackgroundColor = "#BBDEFB"
+font = "sans serif"
+# .streamlit/secrets.toml
+GEMINI_API_KEY = "AIzaSyBYZExfZcBiaEtQsmCK0cS_pqcRwfWV2Mw"
